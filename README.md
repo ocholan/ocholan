@@ -9,7 +9,7 @@ Some languages I have tinkered in: Luau, Java, Python, Html, Cs, Sql,and C#
 
 Fun Facts:
 
-- I have a dog named Isabella
+- I have a dog named Izzy
 - Eggnog is the best
 - Cheesecake is better than normal cake (fight me)
 
