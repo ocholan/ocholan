@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm [Ocho] (https://github.com/ocholan)
 
+[Link Text](https://example.com)
+
 I program in my freetime.
 
 I'm currently actively learning/interested in C#.
