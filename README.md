@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm [Ocho] (https://github.com/ocholan)
-
-[Link Text](https://example.com)
+I'm [Ocho](https://github.com/ocholan)
 
 I program in my freetime.
 
