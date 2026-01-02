@@ -7,7 +7,7 @@ I'm currently actively learning/interested in C#.
 
 Some languages I have tinkered in: Luau, Java, Python, Html, Cs, Sql,and C#
 
-most of my repositories are private (Sorry!)
+Most, if not all of my repositories are private (Sorry!)
 
 Fun Facts:
 
