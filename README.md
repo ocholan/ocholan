@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ocho
+I'm [Ocho] https://github.com/ocholan
 
 I program in my freetime.
 
