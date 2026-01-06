@@ -5,7 +5,7 @@ I program in my freetime.
 
 I'm currently actively learning/interested in C#.
 
-Some languages I have tinkered in: Luau, Java, Python, Html, Cs, Sql,and C#
+Some languages I have tinkered in: Luau, Java, Python, Html, Cs, Sql, and C#
 
 Most, if not all of my repositories are private (Sorry!)
 
