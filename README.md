@@ -3,7 +3,7 @@ I'm [Ocho](https://github.com/ocholan), I'm based in America.
 
 I program in my freetime.
 
-I'm currently actively learning/interested in C#.
+I'm currently actively learning/interested in C# and possibly have found more...
 
 Some languages I have tinkered in: Luau, Java, Python, Html, Cs, Sql, and C#
 
