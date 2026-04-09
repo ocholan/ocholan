@@ -9,12 +9,6 @@ Some languages I have tinkered in: Luau, Java, Python, Html, Cs, Sql, and C#
 
 Most, if not all of my repositories are private (Sorry!)
 
-Fun Facts:
-
-- I have a dog named Izzy
-- Eggnog is the best
-- Cheesecake is better than normal cake (fight me)
-
 <!--
 **ocholan/ocholan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
